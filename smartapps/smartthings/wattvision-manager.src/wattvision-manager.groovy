@@ -480,4 +480,3 @@ def connectionSuccessful(deviceName, iconSrc) {
 
 	render contentType: 'text/html', data: html
 }
-
